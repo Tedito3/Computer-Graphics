@@ -1,0 +1,378 @@
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\first project\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\first project\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\first project\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\ТЕОДОРА\Desktop\first project\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ТЕОДОРА\Desktop\first project\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\ТЕОДОРА\Desktop\first project\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\ТЕОДОРА\Desktop\first project\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\ТЕОДОРА\Desktop\first project\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\first project\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\first project\C#\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\Accord.dll.config
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\Accord.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\Accord.Math.Core.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\Accord.Math.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.Runtime.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\Accord.xml
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\Accord.Math.xml
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\bin\Debug\Accord.Math.Core.xml
+C:\Users\ТЕОДОРА\Desktop\от Вили-елипса\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CopyComplete
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Accord.dll.config
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Accord.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Accord.Math.Core.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Accord.Math.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.Runtime.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Accord.xml
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Accord.Math.xml
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Accord.Math.Core.xml
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CopyComplete
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\Accord.dll.config
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\Accord.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\Accord.Math.Core.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\Accord.Math.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.Runtime.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\Accord.xml
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\Accord.Math.xml
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\bin\Debug\Accord.Math.Core.xml
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CopyComplete
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\проект\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\ТЕОДОРА\Desktop\проект\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\ТЕОДОРА\Desktop\проект\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ТЕОДОРА\Desktop\проект\obj\Debug\Draw.MainForm.resources
+C:\Users\ТЕОДОРА\Desktop\проект\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\ТЕОДОРА\Desktop\проект\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\ТЕОДОРА\Desktop\проект\obj\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\проект\obj\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\Accord.dll.config
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\Accord.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\Accord.Math.Core.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\Accord.Math.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.Runtime.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\Accord.xml
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\Accord.Math.xml
+C:\Users\ТЕОДОРА\Desktop\проект\bin\Debug\Accord.Math.Core.xml
+C:\Users\ТЕОДОРА\Desktop\проект\obj\Debug\Draw.csproj.CopyComplete
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\Accord.dll.config
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\Accord.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\Accord.Math.Core.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\Accord.Math.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.Runtime.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\Accord.xml
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\Accord.Math.xml
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\bin\Debug\Accord.Math.Core.xml
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\obj\Debug\Draw.MainForm.resources
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\obj\Debug\Draw.csproj.CopyComplete
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\obj\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\Нова папка\компютърна графика\проект\obj\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\Accord.dll.config
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\Accord.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\Accord.Math.Core.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\Accord.Math.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.Runtime.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\Accord.xml
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\Accord.Math.xml
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\bin\Debug\Accord.Math.Core.xml
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\obj\Debug\Draw.MainForm.resources
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\obj\Debug\Draw.csproj.CopyComplete
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\obj\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\Нова папка\кг\проект\obj\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\Accord.dll.config
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\Draw.pdb
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\Accord.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\Accord.Math.Core.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\Accord.Math.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.Runtime.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\Accord.xml
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\Accord.Math.xml
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\bin\Debug\Accord.Math.Core.xml
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\obj\Debug\Draw.MainForm.resources
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\obj\Debug\Draw.csproj.CopyComplete
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\obj\Debug\Draw.exe
+C:\Users\ТЕОДОРА\Desktop\Уни\кг\Проект\obj\Debug\Draw.pdb
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\Accord.dll.config
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\Draw.exe
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\Draw.pdb
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\Accord.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\Accord.Math.Core.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\Accord.Math.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.AWT.WinForms.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Charsets.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Corba.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Localedata.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Management.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Misc.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Tools.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.Runtime.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\IKVM.Runtime.JNI.dll
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\Accord.xml
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\Accord.Math.xml
+E:\New folder\23\Уни\VisualStudio\кг\Проект\bin\Debug\Accord.Math.Core.xml
+E:\New folder\23\Уни\VisualStudio\кг\Проект\obj\Debug\Draw.csproj.AssemblyReference.cache
+E:\New folder\23\Уни\VisualStudio\кг\Проект\obj\Debug\Draw.Properties.Resources.resources
+E:\New folder\23\Уни\VisualStudio\кг\Проект\obj\Debug\Draw.DoubleBufferedPanel.resources
+E:\New folder\23\Уни\VisualStudio\кг\Проект\obj\Debug\Draw.MainForm.resources
+E:\New folder\23\Уни\VisualStudio\кг\Проект\obj\Debug\Draw.csproj.GenerateResource.cache
+E:\New folder\23\Уни\VisualStudio\кг\Проект\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+E:\New folder\23\Уни\VisualStudio\кг\Проект\obj\Debug\Draw.csproj.Up2Date
+E:\New folder\23\Уни\VisualStudio\кг\Проект\obj\Debug\Draw.exe
+E:\New folder\23\Уни\VisualStudio\кг\Проект\obj\Debug\Draw.pdb
